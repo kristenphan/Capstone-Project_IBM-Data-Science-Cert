@@ -9,3 +9,5 @@ Assignment description: Scrape a Wikipedia page to obtain information on neighbo
 Additional resources:
 Wiki page URL: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
 Neighborhood latitude and longitude coordinates document: http://cocl.us/Geospatial_data
+
+__Github notebook rendering issue:__ If Gibhub has problem rendering the Jupyter notebook, you are welcome to download the notebook and review it outside of this Github account.
