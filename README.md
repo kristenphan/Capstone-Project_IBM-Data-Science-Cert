@@ -6,8 +6,4 @@ __Jupyter notebook URL:__ https://jp-tok.dataplatform.cloud.ibm.com/analytics/no
 
 __Assignment description:__ Scrape a Wikipedia page to obtain information on neighborhoods in Toronto using BeautifulSoup package. Perform data wrangling. Explore and cluster neighborhoods in Toronto using Foursquare API and K-means clustering.
 
-__Additional resources:__
-Wiki page URL: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
-Neighborhood latitude and longitude coordinates document: http://cocl.us/Geospatial_data
-
 __Github notebook rendering issue:__ If Gibhub has problem rendering the Jupyter notebook, you are welcome to download the notebook and review it outside of this Github account.
